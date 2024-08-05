@@ -4,3 +4,29 @@
 - Jangan segan untuk berkomunikasi
 - Fokuslah pada apa yang ingin dituju
 - Jangan Lupa diri
+
+Hal yang harus di pelajari, berikan tanda X untuk tanda menyelesaikannya
+- HTML
+  * HTML Dasar             ( )
+  * HTML 5                 ( )
+- CSS 
+  * CSS Dasar              ( )
+  * CSS Lanjutan           ( )
+  * CSS 3                  ( )
+  * CSS Unit               ( )
+  * CSS Flexbox            ( )
+  * CSS Grid               ( )
+  * CSS Bootstrap          ( )
+  * CSS Tailwaind          ( )
+  * CSS Sass               ( )
+- JavaScript
+  * JavaScript Dasar       ( )
+  * JavaScript Lanjutan    ( )
+  * JS Webpack             ( )
+  * NodeJS                 ( )
+  * AngularJS              ( )
+  * ReactJS                ( )
+- Git & GitHub             
+  * Git                    ( )
+  * GitHub                 ( )
+- API                      
